@@ -3,7 +3,9 @@ body {
     margin: 0 auto;
     font-family: Helvetica;
 }
-
+h1.about{
+    color: darkred;
+}
 .zone {
     color:#FFF;
     font-size:2em;
@@ -74,6 +76,10 @@ li {
 a {
     color: #f5f5f6;
     text-decoration: none;
+}
+
+a.link{
+    color: darkred;
 }
 
 /*
